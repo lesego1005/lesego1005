@@ -6,7 +6,7 @@
 
 *Turning raw data into actionable insights and building automation that actually works*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/lesego-radebe-a60b95204)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
 [![Email](https://img.shields.io/badge/Email-rlesego6%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rlesego6@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Johannesburg%2C%20ZA-green?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Johannesburg)
 
@@ -16,7 +16,7 @@
 
 ## 🚀 What I Do
 
-I'm passionate about building **end-to-end data solutions** that don't just look good in demos—they solve real business problems. From ETL pipelines that never break to dashboards that actually get used, I focus on creating tools that make people's work lives easier.
+I'm passionate about building **end-to-end data solutions** that don't just look good in demos. They solve real business problems. From ETL pipelines that never break to dashboards that actually get used, I focus on creating tools that make people's work lives easier.
 
 **Mission:** Turning raw data into actionable insights and building automation that actually works
 
@@ -120,7 +120,7 @@ I believe in:
 
 Whether you want to collaborate on a project, discuss data science, or just chat about tech:
 
-- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/lesego-radebe-a60b95204)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
 - 📧 **Email:** rlesego6@gmail.com
 - 📍 **Based in:** Johannesburg, South Africa
 
