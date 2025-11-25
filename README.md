@@ -27,7 +27,7 @@ class DataScientist:
     
     def current_focus(self):
         return {
-            "analyzing": ["Customer behavior patterns", "Time-series forecasting", "A/B testing"],
+            "analysing": ["Customer behavior patterns", "Time-series forecasting", "A/B testing"],
             "building": ["Predictive models", "Interactive dashboards", "ETL pipelines"],
             "learning": ["Advanced statistics", "Deep learning", "MLOps"]
         }
@@ -49,7 +49,7 @@ class DataScientist:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Data Visualization & BI
+### Data Visualisation & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -113,7 +113,7 @@ class DataScientist:
 
 ### [NYC Airbnb Data Analysis](https://github.com/lesego1005/NYC-Airbnb-Analysis)
 > **Python | Pandas | Matplotlib | Seaborn**  
-> Uncovered pricing trends, occupancy patterns, and geographic insights from Airbnb data. Clean code, clear insights, compelling visualizations.
+> Uncovered pricing trends, occupancy patterns, and geographic insights from Airbnb data. Clean code, clear insights, compelling visualisations.
 
 **Highlights:** Seasonal demand analysis • Revenue drivers • Host activity patterns
 
@@ -149,7 +149,7 @@ Atlassian   → Version Control with Git (Oct 2025)
 **Intensive Training:**
 - **ExploreAI & ALX Data Science Program** (16 months | May 2023 - Aug 2024)
   - Python, SQL, Machine Learning, Cloud Computing (AWS)
-  - Statistical Analysis, Data Visualization, Model Deployment
+  - Statistical Analysis, Data Visualisation, Model Deployment
   - Agile Methodology, Professional Communication
 
 ---
@@ -183,7 +183,7 @@ graph LR
 
 1. **Question First** → Define the business problem before touching data
 2. **Explore Deeply** → Let the data reveal patterns you didn't expect
-3. **Visualize Clearly** → Complex analysis means nothing without clear communication
+3. **Visualise Clearly** → Complex analysis means nothing without clear communication
 4. **Test Rigorously** → Statistical significance over gut feelings
 5. **Deploy Practically** → Models in production > models in notebooks
 6. **Iterate Constantly** → The best analysis is the one that improves over time
