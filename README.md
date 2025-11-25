@@ -1,64 +1,116 @@
-# Hey there, I'm Lesego 👋
+# 👋 Hello, I'm Lesego Radebe
 
 <div align="center">
-  
-### 🔍 Data Scientist | 🤖 Automation Engineer | 💡 Problem Solver
 
-*Turning raw data into actionable insights and building automation that actually works*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Analyst;Building+Insights+from+Raw+Data;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
-[![Email](https://img.shields.io/badge/Email-rlesego6%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rlesego6@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Johannesburg%2C%20ZA-green?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Johannesburg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
+[![Email](https://img.shields.io/badge/Email-rlesego6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlesego6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lesego1005)
+[![Location](https://img.shields.io/badge/📍-Johannesburg,_South_Africa-success?style=for-the-badge)](https://maps.google.com/?q=Johannesburg)
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 🎯 About Me
 
-I'm passionate about building **end-to-end data solutions** that don't just look good in demos. They solve real business problems. From ETL pipelines that never break to dashboards that actually get used, I focus on creating tools that make people's work lives easier.
-
-**Mission:** Turning raw data into actionable insights and building automation that actually works
-
----
-
-## 🛠️ Tech Stack
+I'm a **data scientist** and **analyst** who thrives on transforming messy, complex datasets into clear, strategic insights that drive business decisions. My approach combines rigorous statistical analysis with creative problem-solving to uncover patterns that others miss.
 
 ```python
-class Lesego:
-    def __init__(self):
-        self.languages = ["Python", "SQL", "DAX", "JavaScript"]
-        self.tools = {
-            "data_engineering": ["Pandas", "NumPy", "ETL Pipelines"],
-            "visualization": ["Power BI", "Matplotlib", "Seaborn", "Streamlit"],
-            "machine_learning": ["Scikit-learn", "NLP", "Random Forest", "K-Means"],
-            "cloud": ["AWS S3", "Azure Blob Storage"],
-            "low_code": ["Power Apps", "Power Automate"],
-            "ai_tools": ["ChatGPT", "Google Gemini", "Hugging Face"],
-            "dev_ops": ["Git", "GitHub", "Jira", "Agile/Scrum"]
+class DataScientist:
+    def __init__(self, name="Lesego"):
+        self.name = name
+        self.role = "Data Scientist & Analyst"
+        self.location = "Johannesburg, ZA"
+        self.passion = "Extracting signal from noise"
+    
+    def current_focus(self):
+        return {
+            "analyzing": ["Customer behavior patterns", "Time-series forecasting", "A/B testing"],
+            "building": ["Predictive models", "Interactive dashboards", "ETL pipelines"],
+            "learning": ["Advanced statistics", "Deep learning", "MLOps"]
         }
-        self.currently_learning = ["Advanced ML", "Cloud Architecture", "GenAI Integration"]
-        
-    def say_hi(self):
-        print("Let's build something that makes data less scary!")
-
-lesego = Lesego()
-lesego.say_hi()
+    
+    def approach(self):
+        return "Ask better questions → Find the data → Extract insights → Drive decisions"
 ```
 
----
-
-## 💼 Recent Wins
-
-- 🤖 **Built an AI code-assist chatbot** → Improved developer response time by 40%
-- ⚡ **Automated ETL workflows** → Integrated data seamlessly into Azure Blob Storage
-- 📊 **Deployed Streamlit dashboard** → Enabled real-time self-service analytics
-- 📝 **Created Power Apps CRUD system** → Cut manual data entry by 60%
-- 📈 **Delivered Power BI dashboards** → Improved reporting turnaround by 20%
+**📊 Current Mission:** Building automated data pipelines and machine learning models that turn business questions into quantifiable answers.
 
 ---
 
-## 🎯 Featured Projects
+## 🧰 Technical Arsenal
+
+### 💻 Programming & Data Manipulation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### 📊 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### 🤖 Machine Learning & Statistics
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Stats](https://img.shields.io/badge/Statistics-8A2BE2?style=flat-square&logo=scipy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Core Techniques:** Regression Analysis • Classification • Clustering (K-Means) • Random Forest • Time Series • Hypothesis Testing • Feature Engineering
+
+### ☁️ Cloud & Data Engineering
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-4285F4?style=flat-square&logo=databricks&logoColor=white)
+
+### 🔧 Development & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 🚀 Automation & AI Tools
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+---
+
+## 📈 Impact & Achievements
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Analysis & Insights
+- 📊 **20% faster reporting** through Power BI automation
+- 🔍 **90% query resolution rate** via data-driven troubleshooting
+- 📉 **25% error reduction** in data entry processes
+- 🎲 **Pattern discovery** in customer behavior analytics
+
+</td>
+<td width="50%">
+
+### ⚙️ Automation & Engineering
+- 🤖 **60% reduction** in manual data entry via Power Apps
+- ⚡ **40% faster responses** with AI chatbot development
+- 🔄 **Real-time dashboards** with Streamlit deployment
+- 🗄️ **End-to-end ETL pipelines** to Azure Blob Storage
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Featured Data Science Projects
+
 ### 🏠 [NYC Airbnb Data Analysis](https://github.com/lesego1005/NYC-Airbnb-Analysis)
 > **Python | Pandas | Matplotlib | Seaborn**  
 > Uncovered pricing trends, occupancy patterns, and geographic insights from Airbnb data. Clean code, clear insights, compelling visualizations.
@@ -83,55 +135,102 @@ lesego.say_hi()
 
 ---
 
-## 📚 Continuous Learning
+## 🎓 Certifications & Education
 
-I'm always upskilling. Recent certifications:
+**🏆 Professional Certifications:**
+```
+📜 IBM         → Databases and SQL for Data Science with Python (Nov 2025)
+📜 Microsoft   → Power Platform Fundamentals (Nov 2025)
+📜 Atlassian   → Agile with Jira (Nov 2025)
+📜 Google      → Introduction to Generative AI (Oct 2025)
+📜 Atlassian   → Version Control with Git (Oct 2025)
+```
 
-- ✅ **IBM** - Databases and SQL for Data Science with Python (Nov 2025)
-- ✅ **Microsoft** - Power Platform Fundamentals (Nov 2025)
-- ✅ **Atlassian** - Agile with Jira (Nov 2025)
-- ✅ **Google Cloud** - Introduction to Generative AI (Oct 2025)
-- ✅ **ExploreAI & ALX** - Data Science Certification (16-month intensive)
+**🎯 Intensive Training:**
+- **ExploreAI & ALX Data Science Program** (16 months | May 2023 - Aug 2024)
+  - Python, SQL, Machine Learning, Cloud Computing (AWS)
+  - Statistical Analysis, Data Visualization, Model Deployment
+  - Agile Methodology, Professional Communication
 
----
-
-## 🌱 What I'm Working On
-
-- 🔥 Building more **AI-powered automation tools** for everyday workflows
-- 📊 Creating a **portfolio of interactive dashboards** that tell compelling data stories
-- 🧠 Exploring **advanced machine learning** applications in business contexts
-- 🌐 Contributing to **open-source data projects**
-
----
-
-## 💭 My Philosophy
-
-> "The best data solution is the one that people actually use. Make it simple, make it useful, make it accessible."
-
-I believe in:
-- 📌 **Automation over repetition** – If you're doing it twice, script it
-- 📌 **Insights over dashboards** – Pretty charts mean nothing without actionable takeaways
-- 📌 **Collaboration over silos** – The best solutions come from diverse perspectives
-- 📌 **Learning over knowing** – Technology changes, curiosity is forever
+**🎓 Academic Background:**
+- **BSc Medical Sciences** (80+ Credits) | University of Pretoria
+- Strong foundation in research methodology, statistics, and scientific analysis
 
 ---
 
-## 📫 Let's Connect!
+## 🌱 Current Learning Path
 
-Whether you want to collaborate on a project, discuss data science, or just chat about tech:
+```mermaid
+graph LR
+    A[Now] --> B[Deep Learning]
+    A --> C[Advanced Statistics]
+    A --> D[MLOps & Deployment]
+    B --> E[Neural Networks]
+    C --> F[Bayesian Methods]
+    D --> G[Model Monitoring]
+```
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
-- 📧 **Email:** rlesego6@gmail.com
-- 📍 **Based in:** Johannesburg, South Africa
+**📚 Currently Exploring:**
+- 🧠 Advanced ML algorithms and ensemble methods
+- 📊 Causal inference and experimental design
+- ☁️ Cloud-native data architectures (AWS/Azure)
+- 🤖 GenAI integration in analytical workflows
+- 📈 Real-time data streaming and processing
+
+---
+
+## 💡 Data Science Philosophy
+
+> **"Data tells a story, but only if you know which questions to ask."**
+
+### My Analytical Framework:
+
+1. **🎯 Question First** → Define the business problem before touching data
+2. **🔍 Explore Deeply** → Let the data reveal patterns you didn't expect
+3. **📊 Visualize Clearly** → Complex analysis means nothing without clear communication
+4. **🧪 Test Rigorously** → Statistical significance over gut feelings
+5. **🚀 Deploy Practically** → Models in production > models in notebooks
+6. **🔄 Iterate Constantly** → The best analysis is the one that improves over time
+
+### I Value:
+
+✨ **Reproducibility** → Version-controlled, documented, replicable analysis  
+✨ **Simplicity** → Occam's Razor applies to models too  
+✨ **Impact** → Insights that change decisions, not just dashboards that look pretty  
+✨ **Ethics** → Responsible AI, bias detection, transparent methodologies  
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+- 📊 **Data analysis projects** with real-world impact
+- 🤖 **Machine learning challenges** that push boundaries
+- 📈 **Open-source contributions** in data science tools
+- 💬 **Knowledge sharing** through blogs, talks, or mentorship
+
+**Reach out if you want to:**
+- Discuss data science methodologies and best practices
+- Collaborate on analytical projects or research
+- Explore opportunities in data science and analytics
+- Share insights about the South African tech ecosystem
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects helpful, consider giving them a star!
+### 📬 Contact Information
 
-![Profile Views](https://komarev.com/ghpvc/?username=lesego-radebe&color=blueviolet&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlesego6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lesego1005)
 
-*"Data is the new oil, but only if you refine it."* 🛢️✨
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=lesego1005&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+### ⭐ If my work resonates with you, star a repository!
+
+*"In God we trust. All others must bring data." — W. Edwards Deming* 📊
 
 </div>
