@@ -59,7 +59,7 @@ lesego.say_hi()
 ---
 
 ## 🎯 Featured Projects
-### 🏠 [Airbnb Listings Deep Dive](https://github.com/lesego1005/NYC-Airbnb-Analysis)
+### 🏠 [NYC Airbnb Data Analysis](https://github.com/lesego1005/NYC-Airbnb-Analysis)
 > **Python | Pandas | Matplotlib | Seaborn**  
 > Uncovered pricing trends, occupancy patterns, and geographic insights from Airbnb data. Clean code, clear insights, compelling visualizations.
 
@@ -67,7 +67,7 @@ lesego.say_hi()
 
 ---
 
-### 🎵 [Chinook SQL Analytics](https://github.com/lesego1005/Music-store-analytics-SQL-project)
+### 🎵 [Music Store Analytics](https://github.com/lesego1005/Music-store-analytics-SQL-project)
 > **SQL | Jupysql | Data Analysis**  
 > Explored music store data with complex joins, window functions, and KPI calculations. Portable, reproducible, and well-documented.
 
@@ -75,7 +75,7 @@ lesego.say_hi()
 
 ---
 
-### 📦 [Northwind SQL Analytics](https://github.com/lesego1005/northwind_traders_analytics)
+### 📦 [Northwind Traders Analytics](https://github.com/lesego1005/northwind_traders_analytics)
 > **SQL | Business Intelligence**  
 > Sales KPIs, Pareto analysis, employee performance metrics. Fixed tricky table joins and delivered schema-aware analysis with troubleshooting notes.
 
