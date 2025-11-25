@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Analyst;Building+Insights+from+Raw+Data;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B3ADAD&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Analyst;Building+Insights+from+Raw+Data;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesego-radebe-a60b95204/)
 [![Email](https://img.shields.io/badge/Email-rlesego6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlesego6@gmail.com)
