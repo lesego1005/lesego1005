@@ -36,7 +36,7 @@ class DataScientist:
         return "Ask better questions → Find the data → Extract insights → Drive decisions"
 ```
 
-** Current Mission:** Building automated data pipelines and machine learning models that turn business questions into quantifiable answers.
+**Current Mission:** Building automated data pipelines and machine learning models that turn business questions into quantifiable answers.
 
 ---
 
