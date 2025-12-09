@@ -17,7 +17,7 @@
 
 I'm a **data scientist** and **analyst** who thrives on transforming messy, complex datasets into clear, strategic insights that drive business decisions. My approach combines rigorous statistical analysis with creative problem-solving to uncover patterns that others miss.
 
-**Portfolio Link**:https://personal-portfolio-website-seven-ecru.vercel.app/
+**Portfolio Link**: https://personal-portfolio-website-seven-ecru.vercel.app/
 
 ```python
 class DataScientist:
